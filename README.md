@@ -4,7 +4,7 @@ This study presents a novel multimodal dataset on Cognitive Load Assessment in R
 
 # Sensor placement
 This figure shows the placement of the sensors.
-![Alt text](/Figures/sensor_placement_clare.jpg?raw=true "Optional Title")
+![Alt text](/Figures/sensor_placement_clare.JPG?raw=true "Optional Title")
 
 # Download dataset
 
