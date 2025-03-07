@@ -8,7 +8,7 @@ This figure shows the placement of the sensors.
 
 # Download dataset
 
-* Download the CLARE dataset from here
+* Download the CLARE dataset from [here](https://borealisdata.ca/privateurl.xhtml?token=dcf15457-ea9e-41f6-b541-5ab22db4b26b).
 * The structure of the dataset would be:
 
 ```    
